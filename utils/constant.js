@@ -1,0 +1,14 @@
+const BONUS = {
+    WALLET_CONNECT : 1000,
+    JOIN_TG_CHANNEl : 300,
+    FOLLOW_X_ACCOUNT : 300,
+    DAILY_REWARD : 500,
+    RETWEET_POST : 250,
+    SIGN_UP : 500,
+    INVITE_FRIEND : 1000,
+    INVITE_FRIEND_WITH_PREMIUM : 3000,
+}
+
+module.exports = {
+    BONUS,
+};
